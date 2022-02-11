@@ -23,6 +23,7 @@ val_data_x=feat[len(feat)-100:]
 val_data_y=label[len(label)-100:]
 
 
+#this function create the input sequence to the rnn network of 50 timestep
 def process(X,Y):
     x=[]
     y=[]
