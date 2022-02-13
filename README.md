@@ -1,1 +1,2 @@
-# Simple deep learning implementation with pytorch and tensorflow
+# deep-learning
+Simple deep learning implementations with pytorch and tensorflow
